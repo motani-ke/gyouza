@@ -1,0 +1,11 @@
+{
+  "name": "gyouza",
+  "version": "1.0.0",
+  "description": "connect to felica with bleno",
+  "main": "index.js",
+  "author": "motani-ke",
+  "license": "ISC",
+  "dependencies": {
+    "bleno": "^0.4.0"
+  }
+}
